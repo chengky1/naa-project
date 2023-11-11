@@ -33,4 +33,4 @@ npm run build
 ```sh
 npm run test:unit
 ```
-# vue_project_course_12pm_2pm
+# vue_project
